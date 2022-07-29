@@ -1,0 +1,51 @@
+A:link {
+	COLOR: #00309c; text-decoration: none
+}
+A:visited {
+	COLOR: #666666; text-decoration: none
+}
+A:active {
+	COLOR: #cc0033; text-decoration: none
+}
+A:hover {
+	COLOR: #cc0033; text-decoration: none
+}
+
+body { font-size: 11px; font-family: Arial, Helvetica, sans-serif}
+td {text-decoration: none;font-size: 11px;font-family: Arial, Helvetica, sans-serif ;font-weight: normal;}
+
+.wselect {	
+	BACKGROUND:#FFFFFF; 
+	BORDER-BOTTOM: #336699 1px solid; 
+	BORDER-LEFT: #336699 1px solid; 
+	BORDER-RIGHT: #336699 1px solid; 
+	BORDER-TOP: #336699 1px solid; 
+	FONT: 10px verdana }
+
+.winput {
+	BACKGROUND:#FFFFFF; 
+	BORDER-BOTTOM: #336699 1px solid; 
+	BORDER-LEFT: #336699 1px solid; 
+	BORDER-RIGHT: #336699 1px solid; 
+	BORDER-TOP: #336699 1px solid; 
+	FONT: 10px verdana }
+
+.wbutton {
+	BACKGROUND:#E5E5E5;
+	BORDER-BOTTOM: #006699 1px solid; 
+	BORDER-LEFT: #DBDBDB 1px solid; 
+	BORDER-RIGHT: #006699 1px solid; 
+	BORDER-TOP: #DBDBDB 1px solid; 
+	COLOR: #800040; 
+	FONT: bold 10px verdana }
+
+.head {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, Sans-serif; TEXT-DECORATION: none;background : #e7e7e7;
+}	
+.head-isi {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY:  Arial, Helvetica, Sans-serif; TEXT-DECORATION: none;background : #f7f7f7;
+}
+.isi {
+	FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, Sans-serif; TEXT-DECORATION: none;background : #ffffff;
+}
+

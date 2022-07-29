@@ -1,0 +1,358 @@
+.body {
+	SCROLLBAR-FACE-COLOR: #8E8E8E;
+	SCROLLBAR-HIGHLIGHT-COLOR: #3E3E3E;
+	SCROLLBAR-SHADOW-COLOR: #BEBEBE;
+	SCROLLBAR-ARROW-COLOR: #BEBEBE;
+	SCROLLBAR-BASE-COLOR: #8E8E8E;
+	scrollbar-3d-light-color: #BEBEBE;
+	scrollbar-dark-shadow-color: #3E3E3E;
+	margin-left : 0px;
+	margin-top : 0px;
+	margin : 0px 0px;
+	background : Gray;
+}
+
+.bodyChild {
+	SCROLLBAR-FACE-COLOR: #8E8E8E;
+	SCROLLBAR-HIGHLIGHT-COLOR: #3E3E3E;
+	SCROLLBAR-SHADOW-COLOR: #BEBEBE;
+	SCROLLBAR-ARROW-COLOR: #BEBEBE;
+	SCROLLBAR-BASE-COLOR: #8E8E8E;
+	scrollbar-3d-light-color: #BEBEBE;
+	scrollbar-dark-shadow-color: #3E3E3E;
+	margin-left : 0px;
+	margin-top : 0px;
+	margin : 0px 0px;
+	background : White;
+}
+
+A:link {
+	COLOR: Navy;
+	TEXT-DECORATION : none;
+}
+A:visited {
+	COLOR: #4E4E4E;
+	TEXT-DECORATION : none
+}
+A:active {
+	COLOR: Olive;
+	TEXT-DECORATION : none
+}
+A:hover {
+	COLOR: Maroon;
+	TEXT-DECORATION : underline
+}
+
+.small-transparent { 
+	FONT: 8pt Tahoma, Verdana, Arial, Helvetica, sans-serif;
+}
+.small-hitam {
+	BACKGROUND: #000000;
+	FONT: 8pt Tahoma, Verdana, Arial, Helvetica, sans-serif;
+}
+.small-putih { 
+	BACKGROUND: #FFFFFF; 
+	FONT: 8pt Tahoma, Verdana, Arial, Helvetica, sans-serif;
+}
+.small-biru-1 { 
+	BACKGROUND: #CECEFE; 
+	FONT: 8pt Tahoma, Verdana, Arial, Helvetica, sans-serif;
+}
+.small-biru-2 { 
+	BACKGROUND: #BEBEFE; 
+	FONT: 8pt Tahoma, Verdana, Arial, Helvetica, sans-serif;
+}
+.small-biru-3 { 
+	BACKGROUND: #AEAEFE; 
+	FONT: 8pt Tahoma, Verdana, Arial, Helvetica, sans-serif;
+}
+.small-biru-4 { 
+	BACKGROUND: #7E7EFE; 
+	FONT: 8pt Tahoma, Verdana, Arial, Helvetica, sans-serif;
+	color : White;
+}
+.small-biru-5 {
+	BACKGROUND: #4E4EFE;
+	FONT: 8pt Tahoma, Verdana, Arial, Helvetica, sans-serif;
+	color : White;
+}
+.small-biru-6 {
+	BACKGROUND: #0E0EED;
+	FONT: 8pt Tahoma, Verdana, Arial, Helvetica, sans-serif;
+	color : White;
+}
+.small-hijau-1 { 
+	BACKGROUND: #CEFECE; 
+	FONT: 8pt Tahoma, Verdana, Arial, Helvetica, sans-serif;
+}
+.small-hijau-2 { 
+	BACKGROUND: #BEFEBE; 
+	FONT: 8pt Tahoma, Verdana, Arial, Helvetica, sans-serif;
+}
+.small-hijau-3 { 
+	BACKGROUND: #AEFEAE; 
+	FONT: 8pt Tahoma, Verdana, Arial, Helvetica, sans-serif;
+}
+.small-hijau-4 { 
+	BACKGROUND: #7EFE7E; 
+	FONT: 8pt Tahoma, Verdana, Arial, Helvetica, sans-serif;
+}
+.small-hijau-5 {
+	BACKGROUND: #4EFE4E;
+	FONT: 8pt Tahoma, Verdana, Arial, Helvetica, sans-serif;
+}
+.small-hijau-6 {
+	BACKGROUND: #0EED0E;
+	FONT: 8pt Tahoma, Verdana, Arial, Helvetica, sans-serif;
+}
+.small-kuning-1 {
+	BACKGROUND: #FEFECE;
+	FONT: 8pt Tahoma, Verdana, Arial, Helvetica, sans-serif;
+}
+.small-kuning-2 { 
+	BACKGROUND: #FEFEBE; 
+	FONT: 8pt Tahoma, Verdana, Arial, Helvetica, sans-serif;
+}
+.small-kuning-3 { 
+	BACKGROUND: #FEFEAE; 
+	FONT: 8pt Tahoma, Verdana, Arial, Helvetica, sans-serif;
+}
+.small-kuning-4 { 
+	BACKGROUND: #FEFE7E; 
+	FONT: 8pt Tahoma, Verdana, Arial, Helvetica, sans-serif;
+}
+.small-kuning-5 {
+	BACKGROUND: #FEFE4E;
+	FONT: 8pt Tahoma, Verdana, Arial, Helvetica, sans-serif;
+}
+.small-kuning-6 {
+	BACKGROUND: #EDED0E;
+	FONT: 8pt Tahoma, Verdana, Arial, Helvetica, sans-serif;
+}
+.small-merah-1 {
+	BACKGROUND: #FECECE;
+	FONT: 8pt Tahoma, Verdana, Arial, Helvetica, sans-serif;
+}
+.small-merah-2 { 
+	BACKGROUND: #FEBEBE; 
+	FONT: 8pt Tahoma, Verdana, Arial, Helvetica, sans-serif;
+}
+.small-merah-3 { 
+	BACKGROUND: #FEAEAE; 
+	FONT: 8pt Tahoma, Verdana, Arial, Helvetica, sans-serif;
+}
+.small-merah-4 { 
+	BACKGROUND: #FE7E7E; 
+	FONT: 8pt Tahoma, Verdana, Arial, Helvetica, sans-serif;
+}
+.small-merah-5 {
+	BACKGROUND: #FE4E4E;
+	FONT: 8pt Tahoma, Verdana, Arial, Helvetica, sans-serif;
+}
+.small-merah-6 {
+	BACKGROUND: #ED0E0E;
+	FONT: 8pt Tahoma, Verdana, Arial, Helvetica, sans-serif;
+}
+.small-hitam-1 {
+	BACKGROUND: #CECECE;
+	FONT: 8pt Tahoma, Verdana, Arial, Helvetica, sans-serif;
+}
+.small-hitam-2 { 
+	BACKGROUND: #BEBEBE; 
+	FONT: 8pt Tahoma, Verdana, Arial, Helvetica, sans-serif;
+}
+.small-hitam-3 { 
+	BACKGROUND: #AEAEAE; 
+	FONT: 8pt Tahoma, Verdana, Arial, Helvetica, sans-serif;
+}
+.small-hitam-4 { 
+	BACKGROUND: #7E7E7E; 
+	FONT: 8pt Tahoma, Verdana, Arial, Helvetica, sans-serif;
+	color : White;
+}
+.small-hitam-5 {
+	BACKGROUND: #4E4E4E;
+	FONT: 8pt Tahoma, Verdana, Arial, Helvetica, sans-serif;
+	color : White;
+}
+.small-hitam-6 {
+	BACKGROUND: #0D0E0E;
+	FONT: 8pt Tahoma, Verdana, Arial, Helvetica, sans-serif;
+	color : White;
+}
+.small-warning {
+	FONT: bolder 10pt Tahoma, Verdana, Arial, Helvetica, sans-serif;
+	color : Red;
+}
+.small-sukses {
+	FONT: bolder 10pt Tahoma, Verdana, Arial, Helvetica, sans-serif;
+	color : Green;
+}
+.small-info {
+	FONT: bolder 10pt Tahoma, Verdana, Arial, Helvetica, sans-serif;
+	color : Blue;
+}
+
+.clsListClick {
+	FONT-WEIGHT: normal;
+	CURSOR: hand;
+	COLOR: Black;
+	FONT: normal 8pt Tahoma, Verdana, Arial, Helvetica, sans-serif;
+	TEXT-DECORATION: none;
+}
+.clsMenuClick {
+	FONT-WEIGHT: bold;
+	CURSOR: hand;
+	COLOR: Black;
+	FONT: bold 8pt Tahoma, Verdana, Arial, Helvetica, sans-serif;
+	TEXT-DECORATION: none;
+}
+.clsMenuBarItem {
+	FONT-WEIGHT: bold; 
+	CURSOR: hand; 
+	COLOR: white; 
+	FONT: 8pt Tahoma, Verdana, Arial, Helvetica, sans-serif;
+	TEXT-DECORATION: none;
+}
+.clsSubMenuBarItem {
+	PADDING-RIGHT: 0px;
+	PADDING-LEFT: 0px;
+	PADDING-TOP: 0px;
+	PADDING-BOTTOM: 0px;
+	BORDER-TOP: white 1px solid;
+	COLOR: Navy;
+	CURSOR: hand;
+	FONT: 8pt Tahoma, Verdana, Arial, Helvetica, sans-serif;
+	TEXT-DECORATION : none;
+}
+.clsSubMenuBarItem A:link {
+	COLOR: Navy;
+	CURSOR: hand;
+	FONT: 8pt Tahoma, Verdana, Arial, Helvetica, sans-serif;
+	TEXT-DECORATION : none;
+}
+.clsSubMenuBarItem A:visited {
+	COLOR: Navy;
+	CURSOR: hand;
+	FONT: 8pt Tahoma, Verdana, Arial, Helvetica, sans-serif;
+	TEXT-DECORATION : none;
+}
+.clsSubMenuBarItem A:active {
+	COLOR: Navy;
+	CURSOR: hand;
+	FONT: 8pt Tahoma, Verdana, Arial, Helvetica, sans-serif;
+	TEXT-DECORATION : none;
+}
+.clsSubMenuBarItem A:hover {
+	COLOR: White;
+	CURSOR: hand;
+	FONT: 8pt Tahoma, Verdana, Arial, Helvetica, sans-serif;
+	TEXT-DECORATION : none;
+}
+.clsMenuSpacer {
+	CURSOR: hand;
+	FONT: 8pt Tahoma, Verdana, Arial, Helvetica, sans-serif;
+	background : url(../images/biru.GIF);
+}
+
+.copyright {
+	FONT-SIZE: 9px; 
+	COLOR: #6E6E6E; 
+	FONT-FAMILY:  Tahoma, Verdana, Arial, Helvetica, sans-serif;
+}
+
+.judul-besar {
+	FONT-WEIGHT: bolder;
+	FONT-SIZE: 18px;
+	COLOR: #000000;
+	FONT-FAMILY: Arial, Helvetica, sans-serif;
+}
+.judul-sedang {
+	FONT-WEIGHT: bolder;
+	FONT-SIZE: 14px;
+	COLOR: #000000;
+	FONT-FAMILY: Arial, Helvetica, sans-serif;
+}
+.judul-kecil {
+	FONT-WEIGHT: bolder;
+	FONT-SIZE: 10px;
+	COLOR: #000000;
+	FONT-FAMILY: Arial, Helvetica, sans-serif;
+}
+
+.input {
+	border : thin groove;
+	FONT-FAMILY: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+	background-color : White;
+	font-size: 11px;
+}
+
+.inputRp {
+	border : thin groove;
+	FONT-FAMILY: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+	background-color : White;
+	font-size: 11px;
+	text-align : right;
+}
+
+.option {
+	border : thin groove;
+	FONT-FAMILY: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+	background-color : transparent;
+	font-size: 10px;
+	margin-right : 0px;
+}
+
+.input-inner {
+	border : thin groove;
+	FONT-FAMILY: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+	background-color : transparent;
+	font-size: 11px;
+	margin-right : 0px;
+	background : CECECE;
+}
+
+.input-dark {
+	border : thin groove;
+	FONT-FAMILY: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+	background-color : transparent;
+	font-size: 11px;
+	margin-right : 0px;
+}
+
+.radio {
+	border : thin none;
+	FONT-FAMILY: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+	background-color : transparent;
+	font-size: 10px;
+	border-bottom : thin none;
+	display : inline;
+}
+
+.checkbox {
+	border : thin none;
+	FONT-FAMILY: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+	background-color : transparent;
+	font-size: 10px;
+	border-bottom : thin none;
+	display : inline;
+}
+
+.texarea {
+	FONT-FAMILY: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+	background-color : White;
+	font-size: 11px;
+}
+
+.tombol {
+	FONT-FAMILY: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+	background-color : White;
+	font-size: 11px;
+}
+
+.tabel {
+	FONT-FAMILY: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+	background-color : transparent;
+	font-size: 10px;
+	border : thin none;
+}

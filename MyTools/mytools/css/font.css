@@ -1,0 +1,367 @@
+A:link {
+	COLOR: #cc0033
+}
+A:visited {
+	COLOR: #000000
+}
+A:active {
+	COLOR: red
+}
+A:hover {
+	COLOR: #cc0033
+}
+
+.top-menu {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; CURSOR: hand; COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, Sans-serif
+}
+.top-menu2 {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; CURSOR: hand; COLOR: #000000; TEXT-DECORATION: none; FONT-FAMILY: Verdana, Arial, Helvetica, Sans-serif
+}
+
+
+
+.top-menu3 {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; CURSOR: hand; COLOR: #000000; TEXT-DECORATION: none; FONT-FAMILY: Verdana, Arial, Helvetica, Sans-serif
+}
+
+.top-menu3-highlight {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; CURSOR: hand; COLOR: red; FONT-FAMILY: Verdana, Arial, Helvetica, Sans-serif
+}
+
+
+.top-menu:link {
+	CURSOR: hand; COLOR: #000000; TEXT-DECORATION: none
+}
+.top-menu:visited {
+	CURSOR: hand; COLOR: #000000; TEXT-DECORATION: none
+}
+.top-menu:active {
+	CURSOR: hand; COLOR: red; TEXT-DECORATION: none
+}
+.top-menu:hover {
+	CURSOR: hand; COLOR: red; TEXT-DECORATION: none
+}
+.top-menu-highlight {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; CURSOR: hand; COLOR: red; FONT-FAMILY: Verdana, Arial, Helvetica, Sans-serif
+}
+
+.top-menu-highlight:link {
+	CURSOR: hand; COLOR: red; TEXT-DECORATION: none
+}
+.top-menu-highlight:visited {
+	CURSOR: hand; COLOR: red; TEXT-DECORATION: none
+}
+.top-menu-highlight:active {
+	CURSOR: hand; COLOR: red; TEXT-DECORATION: none
+}
+.top-menu-highlight:hover {
+	CURSOR: hand; COLOR: red; TEXT-DECORATION: none
+}
+.top-right-menu {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #ffffff; FONT-FAMILY: Verdana, Arial, Helvetica, Sans-serif
+}
+.top-right-menu:link {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+.top-right-menu:visited {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+.top-right-menu:active {
+	COLOR: #ffcc00; TEXT-DECORATION: none
+}
+.top-right-menu:hover {
+	COLOR: #ffcc00; TEXT-DECORATION: none
+}
+.bot-menu {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; CURSOR: hand; COLOR: #ffffff; FONT-FAMILY: Verdana, Arial, Helvetica, Sans-serif; TEXT-DECORATION: none
+}
+.bot-menu:link {
+	COLOR: #ffffff
+}
+.bot-menu:visited {
+	COLOR: #ffffff
+}
+.bot-menu:active {
+	COLOR: #ffffff
+}
+.bot-menu:hover {
+	COLOR: #ffcc00
+}
+.copyright {
+	FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, Sans-serif
+}
+.leftnav-line {
+	COLOR: #fee069; HEIGHT: 1px
+}
+.leftnav-menu {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, Sans-serif; TEXT-DECORATION: none
+}
+.leftnav-menu:link {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+.leftnav-menu:visited {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+.leftnav-menu:active {
+	COLOR: #cc0033; TEXT-DECORATION: none
+}
+.leftnav-menu:hover {
+	COLOR: #cc0033; TEXT-DECORATION: none
+}
+.leftnav-submenu {
+	FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, Sans-serif; TEXT-DECORATION: none
+}
+.leftnav-submenu:link {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+.leftnav-submenu:visited {
+	COLOR: #666666; TEXT-DECORATION: none
+}
+.leftnav-submenu:active {
+	COLOR: #cc0033; TEXT-DECORATION: none
+}
+.leftnav-submenu:hover {
+	COLOR: #cc0033; TEXT-DECORATION: none
+}
+.leftnav-submenubullet {
+	FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, Sans-serif
+}
+.judul {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, Sans-serif; TEXT-DECORATION: none;
+}
+.sub-judul {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, Sans-serif; TEXT-DECORATION: none;
+}
+.judul-besar {
+	FONT-WEIGHT: bold; FONT-SIZE: 18px; COLOR: #cc0033; FONT-FAMILY: Arial, Helvetica, Sans-serif; TEXT-DECORATION: none;
+}
+.judul-sedang {
+	FONT-WEIGHT: bold; FONT-SIZE: 15px; COLOR: #cc0033; FONT-FAMILY: Arial, Helvetica, Sans-serif; TEXT-DECORATION: none;
+}
+.head {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, Sans-serif; TEXT-DECORATION: none;background : #e7e7e7;
+}
+.head1 {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, Sans-serif; TEXT-DECORATION: none;background :  #66CCFF;
+}
+.head2 {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, Sans-serif; TEXT-DECORATION: none;background : #CCFFCC;
+}
+.head3 {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, Sans-serif; TEXT-DECORATION: none;background : #FF0066;
+}
+
+.head-sedang {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, Sans-serif; TEXT-DECORATION: none;background : #e7e7e7;
+}
+.head-kecil1 {
+	FONT-WEIGHT: bold; FONT-SIZE: 9px; COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, Sans-serif; TEXT-DECORATION: none;background : #e7e7e7;
+}
+.head-kecil {
+	FONT-SIZE: 9px; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, Sans-serif; TEXT-DECORATION: none;background : #e7e7e7;
+}
+.head-isi {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY:  Arial, Helvetica, Sans-serif; TEXT-DECORATION: none;background : #f7f7f7;
+}
+.footer {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY:  Arial, Helvetica, Sans-serif; TEXT-DECORATION: none;background : #e7e7e7;
+}
+.footer1 {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY:  Arial, Helvetica, Sans-serif; TEXT-DECORATION: none;background : #f7f7f7;
+}
+.footer2 {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY:  Arial, Helvetica, Sans-serif; TEXT-DECORATION: none;background : #e7e7e7;
+}
+.isi {
+	FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: Tahoma, "Trebuchet MS", Verdana; TEXT-DECORATION: none; background : #ffffff;
+}
+.kisi {
+	FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: Tahoma, "Trebuchet MS", Verdana; TEXT-DECORATION: none;
+}
+.isikur {
+	FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: Tahoma, "Trebuchet MS", Verdana; TEXT-DECORATION: none;
+}
+.isi-datel {
+	FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: Tahoma, "Trebuchet MS", Verdana; TEXT-DECORATION: none; background : #5DFBF1;
+}
+.isi-infra {
+	FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: Tahoma, "Trebuchet MS", Verdana; TEXT-DECORATION: none; background : #98FB5D;
+}
+.isi-program {
+	FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: Tahoma, "Trebuchet MS", Verdana; TEXT-DECORATION: none; background : #D4FB5D;
+}
+.isi-all {
+	FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: Tahoma, "Trebuchet MS", Verdana; TEXT-DECORATION: none; background : #FBAF5D;
+}
+.isi-trans {
+	FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: Tahoma, "Trebuchet MS", Verdana; TEXT-DECORATION: none;background-color: transparent;
+}
+.isiagus {
+	FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: Verdana; TEXT-DECORATION: none; background : #ffffff;
+}
+.isi-lagi {
+	FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: Tahoma, "Trebuchet MS", Verdana; TEXT-DECORATION: none; background : #ffffff;
+}
+.agus {
+	FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: Verdana; TEXT-DECORATION: none; background : #ffffff;
+}
+.hit {
+	FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, Sans-serif; TEXT-DECORATION: none;background : #ffffff;
+}
+.isi1 {
+	FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, Sans-serif; TEXT-DECORATION: none;background : #99ffcc;
+}
+.isi2 {
+	FONT-SIZE: 9px; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, Sans-serif; TEXT-DECORATION: none;background : #99ccff;
+}
+.isi3 {
+	FONT-SIZE: 9px; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, Sans-serif; TEXT-DECORATION: none;background : #ffff99;
+}
+.isi4 {
+	FONT-SIZE: 9px; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, Sans-serif; TEXT-DECORATION: none;background : White;
+}
+.isi5 {
+	FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, Sans-serif; TEXT-DECORATION: none;background : #ff3737;
+}
+.isi6 {
+	FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, Sans-serif; TEXT-DECORATION: none;background : #99ccff;
+}
+.isi7 {
+	FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, Sans-serif; TEXT-DECORATION: none;background : #DDDDDD;
+}
+.isi-kecil {
+	FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, Sans-serif; TEXT-DECORATION: none;background : #ffffff;
+}
+.field {
+  FONT-SIZE: 10px;
+  COLOR: 000000;
+  FONT-FAMILY: Verdana, Arial, Helvetica, Sans-serif;
+  TEXT-DECORATION: none;
+  font-weight: normal;
+  background : url("../images/Input_Item.jpg");
+  width: 155px;
+}
+.field1 {
+  FONT-SIZE: 10px;
+  COLOR: 000000;
+  FONT-FAMILY: Verdana, Arial, Helvetica, Sans-serif;
+  TEXT-DECORATION: none;
+  font-weight: normal;
+  background : url("../images/Input_Item.jpg");
+
+}
+
+.field2 {
+	FONT-SIZE: 12px;
+  COLOR: #FF0000;
+  FONT-FAMILY: Arial, Helvetica, Sans-serif;
+  TEXT-DECORATION: none;
+  font-weight: bold;
+  background : url("../images/Input_Item_box.jpg");
+}
+.tmbl {
+	FONT-SIZE: 11px;
+  COLOR: 000000;
+  FONT-FAMILY: Verdana, Arial, Helvetica, Sans-serif;
+  TEXT-DECORATION: none;
+  font-weight: normal;
+  background : url("../images/Input_Item_box.jpg");
+  width: 140px;
+}
+.fieldagus {
+	FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, Sans-serif; TEXT-DECORATION: none;
+}
+.checkbox {
+	FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, Sans-serif; TEXT-DECORATION: none;
+}
+.wselect {
+	FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, Sans-serif; TEXT-DECORATION: none;background : #ffffff;
+}
+
+.kecil {
+	FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, Sans-serif; TEXT-DECORATION: none;background : #ffffff;
+}
+.wselect1 {
+	FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, Sans-serif; TEXT-DECORATION: none;background : #FF0066;
+}
+
+.wselect-solid {
+	FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, Sans-serif; TEXT-DECORATION: none;background : #ffffff;border-style:solid;border-width: 1px
+}
+.input {
+	border : thin groove;
+	font-family : Arial, Helvetica, sans-serif;
+	background-color : White;
+	font-size: 11px;
+
+}
+.small-hitam-3 {
+	BACKGROUND: #AEAEAE;
+	FONT: 8pt Tahoma, Verdana, Arial, Helvetica, sans-serif;
+}
+.small-transparent {
+	FONT: 8pt Tahoma, Verdana, Arial, Helvetica, sans-serif;
+}
+.berita {
+	FONT: 11px Verdana, Arial, Geneva, Helvetica, Sans-Serif
+}
+.tombol {
+	BACKGROUND: #F07800; BORDER-BOTTOM: #808080 1px solid; BORDER-LEFT: none; BORDER-RIGHT: #808080 1px solid; BORDER-TOP: none; COLOR: #000000; FONT: bold 11px verdana
+}
+.judulbaris { font-family: Tahoma; font-size: 14pt; font-weight: normal; text-transform: uppercase; 
+               background: #99FFCC }
+
+.fieldmbi {
+	FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, Sans-serif; TEXT-DECORATION: none;background : #ECFFFF;; height:15
+}
+
+.standartext { font-family: Tahoma; font-size: 8pt }
+.judul_besar {
+	font-family: Trebuchet MS;
+	font-size: 10pt;
+	color: #01557c;
+	font-weight: bold;
+	text-decoration: none;
+}
+.teks {
+	font-family: Verdana, Arial, Helvetica, Sans-serif; 
+	font-size: 11px; 
+	color: #666666;
+	font-weight: normal;
+	text-decoration: none;
+}
+.date {
+	font-family: Trebuchet MS;
+	font-size: 8pt;
+	color: #FF0000;
+	font-weight: normal;
+  text-decoration: none;
+}
+.judulzahra {
+        font-family: Arial; font-size: 14px; color: #2A6D97; font-weight: bold; text-decoration: none
+}
+.linkzahra {
+        font-family: Verdana, Tahoma, Arial; font-size: 11px; color: #2A6D97; font-weight: bold; text-decoration: none
+}
+.subheadzahra {
+	FONT-WEIGHT: normal; FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, Sans-serif; TEXT-DECORATION: none;background : #FFFFFF;
+}
+.wselectzahra {
+	FONT-SIZE: 11px; COLOR: 000000; FONT-FAMILY: Verdana, Arial, Helvetica, Sans-serif; TEXT-DECORATION: none;background : ffffff;
+}
+.headzahra {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: 000000; FONT-FAMILY: Verdana, Arial, Helvetica, Sans-serif; TEXT-DECORATION: none; background : e7e7e7;
+}
+
+.head {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, Sans-serif; TEXT-DECORATION: none;background : #999999;
+}
+
+.isikur {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, Sans-serif; TEXT-DECORATION: none; background : #999966;
+}
+
+
+.detail {
+	FONT-SIZE: 11px; COLOR: 000000; FONT-FAMILY: Verdana, Arial, Helvetica, Sans-serif; TEXT-DECORATION: none; background : e7e7e7;
+}

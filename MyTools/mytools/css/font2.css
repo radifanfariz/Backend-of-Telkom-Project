@@ -1,0 +1,211 @@
+A:link {
+	COLOR: #FFFFFF
+}
+A:visited {
+	COLOR: #FFFFFF
+}
+A:active {
+	COLOR: #FFFFFF
+}
+A:hover {
+	COLOR: #ffff00
+}
+
+.top-menu {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; CURSOR: hand; COLOR: #FFFFFF; FONT-FAMILY: Verdana, Arial, Helvetica, Sans-serif
+}
+.top-menu2 {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; CURSOR: hand; COLOR: #FFFFFF; TEXT-DECORATION: none; FONT-FAMILY: Verdana, Arial, Helvetica, Sans-serif
+}
+.top-menu:link {
+	CURSOR: hand; COLOR: #000000; TEXT-DECORATION: none
+}
+.top-menu:visited {
+	CURSOR: hand; COLOR: #000000; TEXT-DECORATION: none
+}
+.top-menu:active {
+	CURSOR: hand; COLOR: red; TEXT-DECORATION: none
+}
+.top-menu:hover {
+	CURSOR: hand; COLOR: red; TEXT-DECORATION: none
+}
+.top-menu-highlight {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; CURSOR: hand; COLOR: red; FONT-FAMILY: Verdana, Arial, Helvetica, Sans-serif
+}
+.top-menu2-highlight {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; CURSOR: hand; COLOR: green; FONT-FAMILY: Verdana, Arial, Helvetica, Sans-serif
+}
+.top-menu-highlight:link {
+	CURSOR: hand; COLOR: red; TEXT-DECORATION: none
+}
+.top-menu-highlight:visited {
+	CURSOR: hand; COLOR: red; TEXT-DECORATION: none
+}
+.top-menu-highlight:active {
+	CURSOR: hand; COLOR: red; TEXT-DECORATION: none
+}
+.top-menu-highlight:hover {
+	CURSOR: hand; COLOR: red; TEXT-DECORATION: none
+}
+.top-right-menu {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #ffffff; FONT-FAMILY: Verdana, Arial, Helvetica, Sans-serif
+}
+.top-right-menu:link {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+.top-right-menu:visited {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+.top-right-menu:active {
+	COLOR: #ffcc00; TEXT-DECORATION: none
+}
+.top-right-menu:hover {
+	COLOR: #ffcc00; TEXT-DECORATION: none
+}
+.bot-menu {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; CURSOR: hand; COLOR: #ffffff; FONT-FAMILY: Verdana, Arial, Helvetica, Sans-serif; TEXT-DECORATION: none
+}
+.bot-menu:link {
+	COLOR: #ffffff
+}
+.bot-menu:visited {
+	COLOR: #ffffff
+}
+.bot-menu:active {
+	COLOR: #ffffff
+}
+.bot-menu:hover {
+	COLOR: #ffcc00
+}
+.copyright {
+	FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, Sans-serif
+}
+.leftnav-line {
+	COLOR: #fee069; HEIGHT: 1px
+}
+.leftnav-menu {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, Sans-serif; TEXT-DECORATION: none
+}
+.leftnav-menu:link {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+.leftnav-menu:visited {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+.leftnav-menu:active {
+	COLOR: #cc0033; TEXT-DECORATION: none
+}
+.leftnav-menu:hover {
+	COLOR: #cc0033; TEXT-DECORATION: none
+}
+.leftnav-submenu {
+	FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, Sans-serif; TEXT-DECORATION: none
+}
+.leftnav-submenu:link {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+.leftnav-submenu:visited {
+	COLOR: #666666; TEXT-DECORATION: none
+}
+.leftnav-submenu:active {
+	COLOR: #cc0033; TEXT-DECORATION: none
+}
+.leftnav-submenu:hover {
+	COLOR: #cc0033; TEXT-DECORATION: none
+}
+.leftnav-submenubullet {
+	FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, Sans-serif
+}
+.judul {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, Sans-serif; TEXT-DECORATION: none;
+}
+.sub-judul {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, Sans-serif; TEXT-DECORATION: none;
+}
+.judul-besar {
+	FONT-WEIGHT: bold; FONT-SIZE: 18px; COLOR: #cc0033; FONT-FAMILY: Arial, Helvetica, Sans-serif; TEXT-DECORATION: none;
+}
+.judul-sedang {
+	FONT-WEIGHT: bold; FONT-SIZE: 15px; COLOR: #cc0033; FONT-FAMILY: Arial, Helvetica, Sans-serif; TEXT-DECORATION: none;
+}
+.head {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, Sans-serif; TEXT-DECORATION: none;background : #e7e7e7;
+}
+.head-sedang {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, Sans-serif; TEXT-DECORATION: none;background : #e7e7e7;
+}
+.head-kecil1 {
+	FONT-WEIGHT: bold; FONT-SIZE: 9px; COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, Sans-serif; TEXT-DECORATION: none;background : #e7e7e7;
+}
+.head-kecil {
+	FONT-SIZE: 9px; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, Sans-serif; TEXT-DECORATION: none;background : #e7e7e7;
+}
+.head-isi {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY:  Arial, Helvetica, Sans-serif; TEXT-DECORATION: none;background : #f7f7f7;
+}
+.footer {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY:  Arial, Helvetica, Sans-serif; TEXT-DECORATION: none;background : #e7e7e7;
+}
+.footer1 {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY:  Arial, Helvetica, Sans-serif; TEXT-DECORATION: none;background : #f7f7f7;
+}
+.footer2 {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY:  Arial, Helvetica, Sans-serif; TEXT-DECORATION: none;background : #e7e7e7;
+}
+.isi {
+	FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: Tahoma, "Trebuchet MS", Verdana; TEXT-DECORATION: none; background : #ffffff;
+}
+.hit {
+	FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, Sans-serif; TEXT-DECORATION: none;background : #ffffff;
+}
+.isi1 {
+	FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, Sans-serif; TEXT-DECORATION: none;background : #99ffcc;
+}
+.isi2 {
+	FONT-SIZE: 9px; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, Sans-serif; TEXT-DECORATION: none;background : #99ccff;
+}
+.isi3 {
+	FONT-SIZE: 9px; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, Sans-serif; TEXT-DECORATION: none;background : #ffff99;
+}
+.isi4 {
+	FONT-SIZE: 9px; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, Sans-serif; TEXT-DECORATION: none;background : White;
+}
+.isi5 {
+	FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, Sans-serif; TEXT-DECORATION: none;background : #ff3737;
+}
+.isi6 {
+	FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, Sans-serif; TEXT-DECORATION: none;background : #99ccff;
+}
+.isi7 {
+	FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, Sans-serif; TEXT-DECORATION: none;background : #DDDDDD;
+}
+.isi-kecil {
+	FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, Sans-serif; TEXT-DECORATION: none;background : #ffffff;
+}
+.field {
+	FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, Sans-serif; TEXT-DECORATION: none;background : #e7e7e7;
+}
+.wselect {
+	FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, Sans-serif; TEXT-DECORATION: none;background : #ffffff;
+}
+.input {
+	border : thin groove;
+	font-family : Arial, Helvetica, sans-serif;
+	background-color : White;
+	font-size: 11px;
+
+}
+.small-hitam-3 { 
+	BACKGROUND: #AEAEAE; 
+	FONT: 8pt Tahoma, Verdana, Arial, Helvetica, sans-serif;
+}
+.small-transparent { 
+	FONT: 8pt Tahoma, Verdana, Arial, Helvetica, sans-serif;
+}
+.berita {
+	FONT: 11px Verdana, Arial, Geneva, Helvetica, Sans-Serif
+}
+.tombol {
+	BACKGROUND: #F07800; BORDER-BOTTOM: #808080 1px solid; BORDER-LEFT: none; BORDER-RIGHT: #808080 1px solid; BORDER-TOP: none; COLOR: #000000; FONT: bold 11px verdana
+	
+	

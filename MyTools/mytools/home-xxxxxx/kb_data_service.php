@@ -1,0 +1,228 @@
+<?
+	session_start();
+?>
+
+
+<?
+
+    //$_SESSION["uname"] = "test1";
+
+	//$_SESSION[login0] = $_POST[login];
+	//echo $_SESSION[login0]."<br>";
+	
+	//$_SESSION[password0] = $_POST[password];
+	
+	//echo $_SESSION[nama0]."<br>";
+?>
+
+<?php
+$timezone = "Asia/Jakarta";
+if(function_exists('date_default_timezone_set')) date_default_timezone_set($timezone);
+//echo date('d-m-Y H:i:s');
+?>
+
+
+<body bgcolor="#808000">
+
+	<?php
+  	//print (date ("l dS of F Y"));
+  	//print "<br>";
+	
+	print "<b>". "Medan, " .date("Y-m-d")."</b>"."<br>"."<br>"; 
+  	
+	
+	//print (date ("m"));
+	
+	//print (date ("Y/m/d"));
+	//print (date ("H:i:s"))."<br>";
+	
+	//print (date ("Y/m/d"));
+	//print "<br>"."<br>";
+	?>
+
+	
+	<?php
+	//if($c_profile0==null)   
+	
+	if($_SESSION[c_profile0]==null)   
+	{
+	//include "login.html";
+	//print "<br>";
+	}
+	else
+	{
+	//print "c_profile0 = ".$_SESSION[c_profile0]."<br>";
+	print "<br>"."Welcome: ".$_SESSION[nama0]."<BR>";
+	//PRINT "<a href=logout.php>Logout</a>";
+	}
+	?> 
+
+	
+	<?php
+   	//include "counter.php";
+    print "<br>";
+	?>
+       
+
+	   
+	   
+	   
+    <?php
+	//include "searching.html";
+	//print "<br>";
+	?>
+
+</body>
+
+
+
+<table>
+
+<tr>
+<div>	 
+<a href="kb_home.php"><img src="../images/home.jpg" alt="" width="160" height="22" border="0"></a>
+</div>
+</tr>		 
+
+
+
+<tr>
+<div>	 
+<a href="../login/login.php" target="tengah_bawah"><img src="../images/login.jpg" alt="" width="160" height="22" border="0"></a>
+</div>
+</tr>		 
+
+<tr>
+<div>	 
+<a href="../login/logout.php" target="tengah_bawah"> <img src="../images/logout.jpg" alt="" width="160" height="22" border="0"></a>
+</div>
+</tr>	
+
+
+ <tr>
+<div>	 
+<a href="../admin/hotnews/hotnews.php" target="tengah_bawah"> <img src="../images/hotnews.jpg" alt="" width="160" height="22" border="0"></a>
+</div>
+</tr>	
+
+
+<tr>
+<div> 
+<a href="../login/password_change.php" target="tengah_bawah"><img src="../images/changepassword.jpg" alt="" width="160" height="22" border="0"></a>
+</div>
+</tr>	 
+
+<tr>
+<div>	 
+<a href="../admin/admin.php" target="tengah_bawah"><img src="../images/administrator.jpg" alt="" width="160" height="22" border="0"></a>
+</div>
+</tr>	 
+
+
+<tr>
+<div>	 
+<a href="who_am_i.php" target="tengah_bawah"><img src="../images/whoami.jpg" alt="" width="160" height="22" border="0"></a>
+</div>
+</tr>	 
+</table>
+
+<!--- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx --->
+
+<table>
+
+<tr> 
+<a href="../admin/project/service_ftp/service_ftp_search_witel.php" target="tengah_bawah"><img src="../images/service_status.jpg" alt="" width="159" height="16" border="0"></a><br>
+</tr>	 
+
+
+<tr> 
+<a href="kb_service_kanoss.php"><img src="../images/service_status_kanoss.jpg" alt="" width="159" height="16" border="0"></a><br>
+</tr>	 
+
+
+<tr> 
+<a href="../admin/project/service_ftp/searching_vlan_sp_target.php" target="tengah_bawah"><img src="../images/service_vlan_search.jpg" alt="" width="159" height="16" border="0"></a><br>
+</tr>	
+
+
+<tr> 
+<a href="../admin/project/service_ftp/graph_service_status.php" target="tengah_bawah"><img src="../images/graph_service_status.jpg" alt="" width="159" height="16" border="0"></a><br>
+</tr>	 
+
+<br>
+
+<tr> 
+<a href="../admin/project/service_ftp/service_status_ftp_menu.php" target="tengah_bawah"><img src="../images/process_data_service.jpg" alt="" width="159" height="16" border="0"></a><br>
+</tr>	 
+ 
+<tr> 
+<a href="../admin/scripts/uploadfile4/uploadfile_client_databaseserver1.php" target="tengah_bawah"><img src="../images/upload_result1.jpg" alt="" width="159" height="16" border="0" title="Upload performansi Data Service to Server DIM"></a><br>
+</tr>	 
+
+<tr> 
+<a href="../admin/scripts/uploadfile5/uploadfile_client_databaseserver1.php" target="tengah_bawah"><img src="../images/upload_result2.jpg" alt="" width="159" height="16" border="0" title="Upload Data Modern_Emerging Node to Server DIM"></a><br>
+</tr>	 
+
+
+<tr> 
+<a href="../admin/project/service_ftp/report2b.php" target="tengah_bawah"><img src="../images/performansi_per_technology.jpg" alt="" width="159" height="16" border="0"></a><br>
+</tr>	 
+
+<tr> 
+<a href="../admin/project/service_ftp/rep_global2.php" target="tengah_bawah"><img src="../images/performansi_global.jpg" alt="" width="159" height="16" border="0"></a><br>
+</tr>	 
+
+<tr> 
+<a href="../admin/project/service_ftp/service_status_ftp1_temp.php" target="tengah_bawah"><img src="../images/prepare_service_temp.jpg" alt="" width="159" height="16" border="0"></a><br>
+</tr>	 
+
+<tr> 
+<a href="../admin/project/mbsp/_mbsp_temp_master.php" target="tengah_bawah"><img src="../images/prepare_mbsp_temp.jpg" alt="" width="159" height="16" border="0"></a><br>
+</tr>	 
+
+<tr> 
+<a href="../admin/project/mbsp/_xxx_temp_master.php" target="tengah_bawah"><img src="../images/prepare_xxx_temp.jpg" alt="" width="159" height="16" border="0"></a><br>
+</tr>	 
+
+<tr> 
+<a href="../admin/project/service_ftp/granular.php" target="_blank"><img src="../images/performansi_per_sto.jpg" alt="" width="159" height="16" border="0"></a><br>
+</tr>	 
+
+<tr> 
+<a href="../admin/project/service_ftp/granular_modern_node.php" target="_blank"><img src="../images/performansi_modern_node.jpg" alt="" width="159" height="16" border="0"></a><br>
+</tr>	 
+
+<tr> 
+<a href="../admin/project/service_ftp/granular_emerging_node.php" target="_blank"><img src="../images/performansi_emerging_node.jpg" alt="" width="159" height="16" border="0"></a><br>
+</tr>	 
+ 
+<tr> 
+<a href="../admin/project/service_ftp/graph_modern_node_status.php" target="tengah_bawah"><img src="../images/progess_modern_node.jpg" alt="" width="159" height="16" border="0"></a><br>
+</tr>	
+
+<tr> 
+<a href="../admin/project/service_ftp/graph_emerging_node_status.php" target="tengah_bawah"><img src="../images/progess_emerging_node.jpg" alt="" width="159" height="16" border="0"></a><br>
+</tr>	
+
+
+<tr> 
+<a href="../admin/project/service_ftp/graph_service_status_trend.php" target="_blank"><img src="../images/graph_trend_service_status.jpg" alt="" width="159" height="16" border="0"></a><br>
+</tr>	
+
+
+
+<tr> 
+<a href="../admin/project/service_ftp/searching_parameter_rfs.php" target="tengah_bawah"><img src="../images/rfs.jpg" alt="" width="159" height="16" border="0"></a><br>
+</tr>	
+
+<tr> 
+<a href="../admin/project/service_ftp/quadrics_service_compliance.php" target="tengah_bawah"><img src="../images/quadrics.jpg" alt="" width="159" height="16" border="0"></a><br>
+</tr>	
+
+<tr> 
+<a href="../admin/project/service_ftp/pilih_tanggal.php" target="tengah_bawah">Pilih_tanggal</a><br>
+</tr>	
+
+
+</table>
+

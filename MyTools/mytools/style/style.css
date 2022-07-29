@@ -1,0 +1,32 @@
+khusus untuk hyperlink
+a:link {color:green}
+a:visited {color:blue}
+a:active {color:red}
+a:hover {color:black}
+
+
+.wselect {	
+	BACKGROUND:#9b9bff; 
+	BORDER-BOTTOM: #336699 1px solid; 
+	BORDER-LEFT: #336699 1px solid; 
+	BORDER-RIGHT: #336699 1px solid; 
+	BORDER-TOP: #336699 1px solid; 
+	FONT: 10px verdana }
+
+.winput {
+	BACKGROUND:#FFC184; 
+	BORDER-BOTTOM: #336699 1px solid; 
+	BORDER-LEFT: #336699 1px solid; 
+	BORDER-RIGHT: #336699 1px solid; 
+	BORDER-TOP: #336699 1px solid; 
+	FONT: 10px verdana }
+
+.wbutton {
+	BACKGROUND:#ffff80;
+	BORDER-BOTTOM: #006699 1px solid; 
+	BORDER-LEFT: #006699 1px solid; 
+	BORDER-RIGHT: #006699 1px solid; 
+	BORDER-TOP: #ccffff 1px solid; 
+	COLOR: #800040; 
+	FONT: bold 10px verdana }
+	
